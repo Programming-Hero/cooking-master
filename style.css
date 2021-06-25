@@ -1,0 +1,9 @@
+main .not-found{
+    color: cyan;
+    text-align: center;
+    margin-top: 10%;
+}
+
+main .single-meal:hover{
+    cursor: pointer;
+}
